@@ -1,0 +1,6 @@
+.dashicons-snow:after {
+	content: "\2744";
+	position:relative;
+	font-size:23px;
+	top:-11px;
+}
